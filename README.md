@@ -1,2 +1,2 @@
 # Gravity-Walk
-Juego Gravity Walk creado por mi en processing
+Game Gravity Walk developed by me on processing 3.3.7
